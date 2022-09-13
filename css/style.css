@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
+
 @font-face {
     font-family: "Florentia";
     src:url("fonts/Florentia-Thin-trial.ttf");
@@ -11,6 +12,7 @@
 body {
     margin: 0px;
     font-family: "Raleway", "Florentia", sans-serif;
+    background-color: white;
 }
 .barra_superior {
     border-bottom: 1px solid rgb(204, 204, 204);
